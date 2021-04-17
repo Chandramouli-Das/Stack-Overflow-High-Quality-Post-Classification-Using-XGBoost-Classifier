@@ -4,4 +4,4 @@ This project is a part of #66datsofdata challenge
 
 This is a the 35th project of this lineup
 
-Dataset is givena and also available in Kaggle 
+Dataset is in Kaggle - https://www.kaggle.com/imoore/60k-stack-overflow-questions-with-quality-rate 
